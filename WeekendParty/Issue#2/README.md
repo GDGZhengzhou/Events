@@ -24,7 +24,7 @@ Firebase 也是今年 I/O 大会的重点之一，并在 I/O 上发布了大量�
 
 通报名表了解到部分小伙伴还没有加入GDG，对GDG也不是很了解，就首先给大家简单介绍了一下GDG以及郑州GDG目前的一些情况，如何加入GDG等等
 
-![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxir8a85j21kw11xqg8.jpg)
+![](http://ww2.sinaimg.cn/large/8a41f469gw1f7ctwzlzagj21kw11x4e2.jpg)
 
 之后是第一位分享嘉宾，分享关于如何开发 Android Wear 应用相关的话题
 
