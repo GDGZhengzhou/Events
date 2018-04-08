@@ -49,7 +49,7 @@ Women Techmakers 简称 WTM，谷歌女性开发者大会。该项目由 Google 
 
 更多活动照片请戳这里：
 
-https://plus.google.com/events/g ... hbttp1fm7muo?sort=1
+https://plus.google.com/events/gallery/chd3vmkv4620fp8hbttp1fm7muo?sort=1
 
 ### 关于 GDG
 
