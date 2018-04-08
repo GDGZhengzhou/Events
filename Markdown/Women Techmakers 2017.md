@@ -1,6 +1,6 @@
 ![img](http://ww4.sinaimg.cn/large/006tKfTcgy1feiy1ovj9pj30lc0e7793.jpg)
 
-## 郑州 GDG Women Teachmakers 2017活动总结活动总结
+## 郑州 GDG Women Techmakers 2017活动总结活动总结
 
 活动时间：4月23日(周日)下午1:00 - 5:00
 
