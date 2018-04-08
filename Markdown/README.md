@@ -18,7 +18,7 @@
   - Google Cloud Next 2017 Recap
   - TensorFlow Dev Summit 2017 Recap
   - TensorFlow 入门活动
-  - Women Teachmakers 2017
+  - Women Techmakers 2017
   - DevFest 2016活动总结
   - Google IO Extended 2017
   - 每月周末聚会 第 4 期
