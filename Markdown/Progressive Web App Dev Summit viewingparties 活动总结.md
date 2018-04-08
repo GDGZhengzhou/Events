@@ -1,10 +1,10 @@
-##Progressive Web App Dev Summit viewingparties 活动总结
+## Progressive Web App Dev Summit viewingparties 活动总结
 
-**活动时间** ：7月10日 下午 13:30 - 18:00
-**活动地点** ：郑州市金水区文化路东风路交叉口向南100米路东研磨时光众创咖啡
-**活动人数** ：报名35人，实际参加16人，其中女生2人
-**G+ Event** : [https://plus.google.com/events/c7or9njn5h44aoia72q1doj48p4?hl=zh-CN](https://plus.google.com/events/c7or9njn5h44aoia72q1doj48p4?hl=zh-CN)
-**活动照片** ：[https://plus.google.com/events/gallery/c7or9njn5h44aoia72q1doj48p4?hl=zh-CN&sort=1](https://plus.google.com/events/gallery/c7or9njn5h44aoia72q1doj48p4?hl=zh-CN&sort=1)
+**活动时间** ：7月10日 下午 13:30 - 18:00<br>
+**活动地点** ：郑州市金水区文化路东风路交叉口向南100米路东研磨时光众创咖啡<br>
+**活动人数** ：报名35人，实际参加16人，其中女生2人<br>
+**G+ Event** : [https://plus.google.com/events/c7or9njn5h44aoia72q1doj48p4?hl=zh-CN](https://plus.google.com/events/c7or9njn5h44aoia72q1doj48p4?hl=zh-CN)<br>
+**活动照片** :[https://plus.google.com/events/gallery/c7or9njn5h44aoia72q1doj48p4?hl=zh-CN&sort=1](https://plus.google.com/events/gallery/c7or9njn5h44aoia72q1doj48p4?hl=zh-CN&sort=1)
 
 Google Chrome 团队在今年六月底举办 Progressive Web App Dev Summit 2016，即 2016 PWA 开发者高峰会议。本次会议已经在 6.20，6.21 在荷兰阿姆斯特丹举办过了。
 虽然会议已经结束，但是郑州GDG 社区响应本次大会的号召，郑州GDG社区在7月10日下午组织了PWA Dev Summit viewing parties 活动。

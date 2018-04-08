@@ -1,4 +1,4 @@
-# 郑州 GDG TensorFlow Dev Summit 2017 Recap活动总结
+## 郑州 GDG TensorFlow Dev Summit 2017 Recap活动总结
 
 ### **活动详情**
 
@@ -10,7 +10,7 @@
 
 - 活动安排：
 
-- 1. 13:00 - 14:00 签到
+  1. 13:00 - 14:00 签到
   2. 14:00 - 15:00 峰会视频回放
   3. 15:00 - 16:00 嘉宾分享
   4. 16:00 - 17:30 嘉宾分享
@@ -20,114 +20,129 @@
 
 今天我们郑州GDG顺利的组织完成了TensorFlow Dev Summit 2017 Recap 活动。
 
-活动于今日（2月26日）在金水区农科路38号 金城国际广场4号楼一单元504室顺利举行，除播放峰会的录像之外，我们邀请了一位社区里的小伙伴来给大家进行TensorFlow相关话题的分享。活动安排
+活动于今日（2月26日）在金水区农科路38号 金城国际广场4号楼一单元504室顺利举行，除播放峰会的录像之外，我们邀请了一位社区里的小伙伴来给大家进行TensorFlow相关话题的分享。
 
-13：00——13：30签到
-13：30——13：50活动开场
-13：50——16：30峰会活动录像回放
-16：30——17：30嘉宾分享与交流
+**活动安排**
+- 13：00——13：30签到
+- 13：30——13：50活动开场
+- 13：50——16：30峰会活动录像回放
+- 16：30——17：30嘉宾分享与交流
 
-往期活动信息
+**往期活动信息**<br>
 <https://github.com/GDGZhengzhou/Events>
 
-文档
-[https://www.tensorflow.org](https://www.tensorflow.org/)
-[http://tensor-flow.cn](http://tensor-flow.cn/)
-[http://www.tensorflowchina.cn](http://www.tensorflowchina.cn/)
-
-[http://www.tensorfly.cn](http://www.tensorfly.cn/)
+**文档**<br>
+[https://www.tensorflow.org](https://www.tensorflow.org/)<br>
+[http://tensor-flow.cn](http://tensor-flow.cn/)<br>
+[http://www.tensorflowchina.cn](http://www.tensorflowchina.cn/)<br>
+[http://www.tensorfly.cn](http://www.tensorfly.cn/)<br>
 <http://wiki.jikexueyuan.com/project/tensorflow-zh/>
 
-视频
-<http://i.youku.com/i/UMjczOTc0NDkzNg==/videos>
-<https://www.youtube.com/watch?v=vq2nnJ4g6N0>
-[https://cloud.google.com/blog/bi ... rning-without-a-phd](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+**视频**<br>
+<http://i.youku.com/i/UMjczOTc0NDkzNg==/videos><br>
+<https://www.youtube.com/watch?v=vq2nnJ4g6N0><br>
+[https://cloud.google.com/blog/bi ... rning-without-a-phd](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)<br>
 <https://pan.baidu.com/s/1hsmNwWG>
 
-工具
-TensorBoard
-[https://github.com/tensorflow/te ... nsorboard/README.md](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tensorboard/README.md)
-TensorDebugger
-<https://github.com/ericjang/tdb>
-TensorFlow Playground
+工具<br>
+TensorBoard<br>
+[https://github.com/tensorflow/te ... nsorboard/README.md](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tensorboard/README.md)<br>
+TensorDebugger<br>
+<https://github.com/ericjang/tdb><br>
+TensorFlow Playground<br>
 <http://playground.tensorflow.org/>
 
 文章
 
-TensorFlow 入门指南
+TensorFlow 入门指南<br>
 <https://coyee.com/article/11637-tensorflow-get-started>
 
-TensorFlow编程模型
+TensorFlow编程模型<br>
 <http://www.jianshu.com/p/a857743c7095>
 
-图计算入门：GraphX
+图计算入门：GraphX<br>
 <http://zqhxuyuan.github.io/2016/05/16/Graph-Spark-GraphX/>
 
-深度神经网络简介
+深度神经网络简介<br>
 <https://deeplearning4j.org/cn/neuralnet-overview>
 
-实例详解机器学习如何解决问题
+实例详解机器学习如何解决问题<br>
 <http://tech.meituan.com/mt-mlinaction-how-to-ml.html>
 
-使用机器学习模型对大盘指数进行预测
+使用机器学习模型对大盘指数进行预测<br>
 <https://zhuanlan.zhihu.com/p/24417597>
 
-从系统和代码实现角度解析TensorFlow的内部实现原理
+从系统和代码实现角度解析TensorFlow的内部实现原理<br>
 <http://www.leiphone.com/news/201702/n0uj58iHaNpW9RJG.html>
 
-6种机器学习模型介绍
+6种机器学习模型介绍<br>
 <http://shujuren.org/article/103.html>
 
-机器学习常见算法分类汇总
+机器学习常见算法分类汇总<br>
 <http://blog.sae.sina.com.cn/archives/5547>
 
-怎样通俗易懂地解释卷积？
+怎样通俗易懂地解释卷积？<br>
 <https://www.zhihu.com/question/22298352>
 
-傅里叶变换，其物理意义是什么？
+傅里叶变换，其物理意义是什么？<br>
 <http://lib.csdn.net/article/computernetworks/16472>
 
-动态图计算：Tensorflow 第一次清晰地在设计理念上领先
+动态图计算：Tensorflow 第一次清晰地在设计理念上领先<br>
 <http://www.algorithmdog.com/dynamic-tensorflow>
 
-如何通过玩TensorFlow Playground来理解神经网络
+如何通过玩TensorFlow Playground来理解神经网络<br>
 <http://mp.weixin.qq.com/s/5aGL7qwH0J0bkzUmil3qsA>
 
 
 
-例子
+**例子**<br>
 
+汇总<br>
 <https://github.com/aymericdamien/TensorFlow-Examples>
 
-利用TensorFlow搞定知乎验证码之《让你找中文倒转汉字》
+利用TensorFlow搞定知乎验证码之《让你找中文倒转汉字》<br>
 <https://zhuanlan.zhihu.com/p/25297378>
 
-从系统和代码实现角度解析TensorFlow的内部实现原理
+从系统和代码实现角度解析TensorFlow的内部实现原理<br>
 <http://www.leiphone.com/news/201702/n0uj58iHaNpW9RJG.html>
 
-Fast Style Transfer in TensorFlow!
+Fast Style Transfer in TensorFlow!<br>
 <https://github.com/lengstrom/fast-style-transfer>
 
-教程
-<https://github.com/pkmital/tensorflow_tutorials>
-<https://github.com/Hvass-Labs/TensorFlow-Tutorials>
+**教程**<br>
+
+<https://github.com/pkmital/tensorflow_tutorials><br>
+<https://github.com/Hvass-Labs/TensorFlow-Tutorials><br>
 <https://github.com/nlintz/TensorFlow-Tutorials>
 
-其他
-<https://github.com/jtoy/awesome-tensorflow>
-<https://github.com/yahoo/TensorFlowOnSpark>
-<https://github.com/tensorflow/transform>
+**其他**<br>
 
+<https://github.com/jtoy/awesome-tensorflow><br>
+<https://github.com/yahoo/TensorFlowOnSpark><br>
+<https://github.com/tensorflow/transform><br>
 [http://learningtensorflow.com](http://learningtensorflow.com/)
 
-GitHub 上 57 款最流行的开源深度学习项目
+**GitHub 上 57 款最流行的开源深度学习项目**<br>
 <http://shujuren.org/article/291.html>
 
 
 
 
 
-[1.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2ODN8Mzk1YzFlYTl8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(468.76 KB, 下载次数: 0)*开场介绍![开场介绍](https://uc0.chinagdg.com/attachment/forum/201702/26/202920bv6w777d9msd1som.jpg)[2.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2ODR8ZjE4ZWY5NWR8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(279.8 KB, 下载次数: 0)*观看视频![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202920ga9062e29u7t68l5.jpg)[3.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2ODV8MzY0YjZiNWJ8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(301.96 KB, 下载次数: 0)*观看视频![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202921xpypxtpxtp88t76x.jpg)[4.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2ODZ8Yzk3ODMyNTh8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(66.97 KB, 下载次数: 0)*观看视频![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202921m2em8c8ej86mqtze.jpg)[5.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2ODd8NDM2ODE3MzZ8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(359.67 KB, 下载次数: 0)*观看视频![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202922vvhh6vhhipp16hhj.jpg)[6.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2ODh8MjQzZjQwY2J8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(354.2 KB, 下载次数: 0)*观看视频![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202927p6j0gudscuwwx0ux.jpg)[7.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2ODl8N2UzYmI3MTB8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(346.09 KB, 下载次数: 0)*观看视频![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202928qm7y1w61zvcp6mpc.jpg)[8.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2OTB8MzM3MWUzYmJ8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(331.89 KB, 下载次数: 0)*讲师分享![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202928vzzzxmxi7wwoqe20.jpg)[9.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2OTF8OGVlZDk5ZDl8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(423.49 KB, 下载次数: 0)*讲师分享![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202929e0ldhhdtjl9deckp.jpg)[10.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2OTJ8OTA3MGQ2YTJ8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(341.78 KB, 下载次数: 0)*讲师分享![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202929b178ou9j83gfr19b.jpg)[11.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2OTN8NjQ2MWI0NDZ8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(433.95 KB, 下载次数: 0)*讲师分享![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202931vv1m5yvl13ukg1yy.jpg)[13.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2OTR8ZDE5NTliZjB8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(354.2 KB, 下载次数: 0)*交流分享![交流分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202931o6dxqx88s8fzybff.jpg)[14.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2OTV8NjhhMWUxNTR8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(383.43 KB, 下载次数: 0)*合影![合影](https://uc0.chinagdg.com/attachment/forum/201702/26/202932u5flmgxbbqgmhs4w.jpg)[210395158637363522.jpg](http://www.chinagdg.com/forum.php?mod=attachment&aid=MjA2OTZ8Y2IwZTAwMDZ8MTUyMjkwOTIxOHwwfDMyOTAy&nothumb=yes) *(37.47 KB, 下载次数: 0)*场地提供方： 蓝踪旅行![场地提供方： 蓝踪旅行](https://uc0.chinagdg.com/attachment/forum/201702/26/203542pjm2qa15455jjx69.jpg)
+![开场介绍](https://uc0.chinagdg.com/attachment/forum/201702/26/202920bv6w777d9msd1som.jpg)
+![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202920ga9062e29u7t68l5.jpg)
+![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202921xpypxtpxtp88t76x.jpg)
+![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202921m2em8c8ej86mqtze.jpg)
+![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202922vvhh6vhhipp16hhj.jpg)
+![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202927p6j0gudscuwwx0ux.jpg)
+![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202928qm7y1w61zvcp6mpc.jpg)
+![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202928vzzzxmxi7wwoqe20.jpg)
+![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202929e0ldhhdtjl9deckp.jpg)
+![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202929b178ou9j83gfr19b.jpg)
+![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202931vv1m5yvl13ukg1yy.jpg)
+![交流分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202931o6dxqx88s8fzybff.jpg)
+![合影](https://uc0.chinagdg.com/attachment/forum/201702/26/202932u5flmgxbbqgmhs4w.jpg)
+![场地提供方： 蓝踪旅行](https://uc0.chinagdg.com/attachment/forum/201702/26/203542pjm2qa15455jjx69.jpg)
 
 ### 关于 GDG
 

@@ -1,4 +1,4 @@
-# 郑州 GDG Google Cloud Next 2017 Recap活动总结
+## 郑州 GDG Google Cloud Next 2017 Recap活动总结
 
 ### 活动信息
 
@@ -6,9 +6,14 @@
 
 Google Cloud Next 大会是将 Google Cloud 开发者、企业用户、客户、合作伙伴及 Google 高管和工程师聚集起来，共同构建云计算未来的一场盛会。首届 Cloud Next 大会于2016年3月23日在旧金山召开。
 
-时间：2017-3-26（周日）下午1：00-5：00 地点：郑州市金水区农科路38号金成国际广场4号楼1单元504室
+---
 
-活动照片
+时间：2017-3-26（周日）下午1：00-5：00<br>
+地点：郑州市金水区农科路38号金成国际广场4号楼1单元504室
+
+---
+
+**活动照片**
 
 活动礼品： 本次活动礼品包含Android 小玩偶，Cloud冰箱贴，纪念T恤以及贴纸 ![img](http://ww4.sinaimg.cn/large/006tKfTcly1fe0froky3gj31kw16ohcq.jpg)介绍本次Cloud大会： 活动主持者张会超对这次大会的不同主题进行的简单介绍 ![img](http://ww1.sinaimg.cn/large/006tKfTcly1fe0fsk6h6tj31kw16o1kx.jpg)![img](http://ww2.sinaimg.cn/large/006tKfTcly1fe0fs9gdiwj31kw16o1kx.jpg)![img](http://ww1.sinaimg.cn/large/006tKfTcly1fe0frxugiyj31kw16o1kx.jpg)观看视频： 观看了Introduction to container development in Google Cloud Platform、Google Cloud Next '17 - Day 1 Keynote以及API Design and What's new with Open API ![img](http://ww2.sinaimg.cn/large/006tKfTcly1fe0fqwomtej31kw16ob26.jpg)![img](http://ww4.sinaimg.cn/large/006tKfTcly1fe0fqhtkw5j31kw16o4qp.jpg)![img](http://ww4.sinaimg.cn/large/006tKfTcly1fe0fq1xg4uj31kw16o1kx.jpg)简单演示： 组织者张会超简单演示了Add-ons插件使用以及Google Apps Script ![img](http://ww3.sinaimg.cn/large/006tKfTcly1fe0fr4tdg5j31kw16o1kx.jpg)![img](http://ww2.sinaimg.cn/large/006tKfTcly1fe0frh63c3j31kw16o4qp.jpg)合影留念 ![img](http://ww1.sinaimg.cn/large/006tKfTcly1fe0foxq8naj31kw16o1kx.jpg)
 
