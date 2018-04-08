@@ -1,4 +1,4 @@
-##GDG活动总结Markdown化
+## GDG活动总结Markdown化
 
 - 工程开始于:20180405
 - 当前进度: 原有总结报告均已Markdown化
