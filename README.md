@@ -6,31 +6,31 @@
 ----
 
 - 2018
-  - [2018 TensorFlow DevSummit Viewing Party](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/2018%20TensorFlow%20DevSummit%20Viewing%20Party%20%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [每月周末聚会第5期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/%E6%AF%8F%E6%9C%88%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A%20%E7%AC%AC%205%20%E6%9C%9F.md)
+  - [2018 TensorFlow DevSummit Viewing Party](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/2018_TensorFlow_DevSummit_Viewing_Party.md)
+  - [每月周末聚会第5期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Monthly_Weekend_Party%235.md)
 
 - 2017
-  - [每月周末聚会第4期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/%E6%AF%8F%E6%9C%88%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A%20%E7%AC%AC%204%20%E6%9C%9F.md)
-  - [Google IO 2017 Extended Zhengzhou](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Google%20IO%20Extended%202017.md)
-  - [Women Techmakers 2017](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Women%20Techmakers%202017.md)
-  - [Google Clud Next 2017 Recap](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Google%20Cloud%20Next%202017%20Recap.md)
-  - [TensorFlow Dev Summit 2017 Recap](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/TensorFlow%20Dev%20Summit%202017%20Recap.md)
-  - [TensorFlow入门](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/TensorFlow%20%E5%85%A5%E9%97%A8%E6%B4%BB%E5%8A%A8.md)
+  - [每月周末聚会第4期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Monthly_Weekend_Party%234.md)
+  - [Google IO 2017 Extended Zhengzhou](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Google_IO_Extended_2017.md)
+  - [Women Techmakers 2017](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Women_Techmakers_2017.md)
+  - [Google Clud Next 2017 Recap](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Google_Cloud_Next_2017_Recap.md)
+  - [TensorFlow Dev Summit 2017 Recap](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/TensorFlow_Dev_Summit_2017_Recap.md)
+  - [TensorFlow入门](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/TensorFlow_Getting_Start.md)
 
 - 2016
-  - [DevFest 2016](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/DevFest%202016%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [每月周末聚会第3期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/%E6%AF%8F%E6%9C%88%E5%B0%8F%E8%81%9A%20%E7%AC%AC3%E6%9C%9F%20%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [每月周末聚会第2期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/%E6%AF%8F%E6%9C%88%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A%20%E7%AC%AC2%E6%9C%9F%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [Progressive Web App Dev Summit viewingparties](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Progressive%20Web%20App%20Dev%20Summit%20viewingparties%20%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [I/O Redux 2016](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/IO%20Redux%202016%20%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [I/O Extended 2016](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/IO%20Extended%202016%20%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [每月周末聚会第1期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/%E6%AF%8F%E6%9C%88%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A%20%E7%AC%AC1%E6%9C%9F%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [Study Jams 1A 课程答疑及 Cardboard 介绍](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Study%20Jams%201A%20%E8%AF%BE%E7%A8%8B%E7%AD%94%E7%96%91%E5%8F%8A%20Cardboard%20%E4%BB%8B%E7%BB%8D%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [Study Jams 活动宣讲及参与组队](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Study%20Jams%20%E6%B4%BB%E5%8A%A8%E5%AE%A3%E8%AE%B2%E5%8F%8A%E5%8F%82%E4%B8%8E%E7%BB%84%E9%98%9F%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
-  - [每月周末聚会第0期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/%E6%AF%8F%E6%9C%88%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A%20%E7%AC%AC0%E6%9C%9F%E6%B4%BB%E5%8A%A8%E6%80%BB%E7%BB%93.md)
+  - [DevFest 2016](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/DevFest_2016.md)
+  - [每月周末聚会第3期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Monthly_Weekend_Party%233.md)
+  - [每月周末聚会第2期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Monthly_Weekend_Party%232.md)
+  - [Progressive Web App Dev Summit viewingparties](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Progressive_Web_App_Dev_Summit_viewingparties.md)
+  - [Google I/O Redux 2016](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Google_IO_Redux_2016.md)
+  - [Google I/O Extended 2016](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Google_IO_Extended_2016.md)
+  - [每月周末聚会第1期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Monthly_Weekend_Party%231.md)
+  - [Study Jams 1A 课程答疑及 Cardboard 介绍](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Study_Jams_1A%26Cardboard.md)
+  - [Study Jams 活动宣讲及参与组队](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Study_Jams_PUB%26Team.md)
+  - [每月周末聚会第0期](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/Monthly_Weekend_Party%230.md)
 
 - 2015
-  - [GDG DevFest 2015](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/DevFest%202015.md)
+  - [GDG DevFest 2015](https://github.com/GDGZhengzhou/Events/blob/master/Markdown/DevFest_2015.md)
 
 ---
 
