@@ -1,4 +1,4 @@
-##2018 TensorFlow DevSummit Viewing Party 活动总结
+## 2018 TensorFlow DevSummit Viewing Party 活动总结
 
 4月1日，郑州GDG社区顺利完成了TensorFlow DevSummit Viewing Party
 
