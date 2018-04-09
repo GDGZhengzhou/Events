@@ -48,7 +48,7 @@
 - QQ群：277803370
 
 #### 微信公众号<br>
-![WeChat](https://s1.ax1x.com/2018/04/09/CiDfgO.jpg)
+![WeChat](http://p31evsni6.bkt.gdipper.com/gdg_wechat.jpg)
 
 > PS：作为有态度的 Google Geek，推荐你注册 Gmail 账号，还有成为我们的社区成员！怎么加入 GDG Zhengzhou 的大家庭呢？<br>你只需 **2** 步即可成为 GDG Zhengzhou 的成员
 > - 第0步：加入 GDG Zhengzhou 的邮件组，加入邮件组只需要发送空邮件到[zhengzhou-gdg+subscribe@googlegroups.com](mailto:zhengzhou-gdg+subscribe@googlegroups.com)，之后会收到一封确认邮件，点击 **「加入此群组」** 按钮即可。
