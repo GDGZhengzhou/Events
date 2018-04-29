@@ -23,6 +23,7 @@
   - Google IO Extended 2017
   - 每月周末聚会 第 4 期
   - 每月周末聚会 第 5 期
+  - Women Techmakers 2018@郑州GDG 活动总结
 
 
 - [IcemBerry](https://github.com/IcemBerry)
