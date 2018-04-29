@@ -52,3 +52,7 @@
 全体大合影<br>![avatar](https://secure.meetupstatic.com/photos/event/c/5/5/5/600_470450517.jpeg)<br>
 
 更多活动照片请戳这里：https://www.meetup.com/gdg-zhengzhou/photos/all_photos/?photoAlbumId=28808923
+
+活动嘉宾PPT请戳这里：https://github.com/GDGZhengzhou/Events/tree/master/WTM
+
+IT大咖说录播视频戳这里：http://www.itdks.com/eventlist/detail/2118
