@@ -1,4 +1,4 @@
-![avatar](https://mmbiz.qpic.cn/mmbiz_png/Z2OuQO64n4XUricajGibW7dLicJqgNPGYHbcwoCibQpCmUyj9yUjsiaLljwgxNEicMnnEvaAc3FjcN5t52F6zJql3Zew/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![avatar](http://p84y6k7lc.bkt.clouddn.com/WTM2018.webp)
 
 # Women Techmakers 2018@郑州GDG 活动总结 
 
@@ -59,12 +59,12 @@ IT大咖说录播视频戳这里：http://www.itdks.com/eventlist/detail/2118
 
 **场地赞助**
 
-![1491670134125762.png](https://mmbiz.qpic.cn/mmbiz_png/Z2OuQO64n4XUricajGibW7dLicJqgNPGYHbsAzjoPjcAwxOVquAEWYXQYhfRCAy6puGC3Vgg1icgpGlfDLaYKxQnOQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![avatar](http://p84y6k7lc.bkt.clouddn.com/ykdm.webp)
 
 **直播赞助**
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/Z2OuQO64n4XUricajGibW7dLicJqgNPGYHbZuJlwChBe1oibElYibK9AvpOczM5aWYKND2zEBvkGre2hNnBkIApcoicQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![avatar](http://p84y6k7lc.bkt.clouddn.com/ITdks.webp)
 
 **茶歇赞助**
 
-![1491670134125762.png](https://mmbiz.qpic.cn/mmbiz_png/Z2OuQO64n4XUricajGibW7dLicJqgNPGYHbxt7TTYHCRhVDdE3MN0VlcQISF6vd1YBbKwpwCpQ2tW0b9CsvPYYcJA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![avatar](http://p84y6k7lc.bkt.clouddn.com/GoogleDevelopers.webp)
