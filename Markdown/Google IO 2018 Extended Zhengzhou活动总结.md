@@ -41,7 +41,7 @@
 
 更多照片请戳这里：https://www.meetup.com/gdg-zhengzhou/photos/
 
-##### I/O资料
+**I/O资料**
 
 全部 I/O 视频见 YouTube 播放列表（有191个视频）：
 
